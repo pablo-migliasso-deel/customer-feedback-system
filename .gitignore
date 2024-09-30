@@ -1,0 +1,74 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+.VENV/
+
+# VS Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+*.out
+*.err
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+*.cover
+*.py,cover
+.cache
+nosetests.xml
+coverage.xml
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Distribution / packaging
+*.wheel
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# dotenv environment variable files
+.env
+.env.local
+.env.*.local
+
+# macOS specific files
+.DS_Store
+
+# Kafka logs (if you generate Kafka logs locally)
+logs/
+kafka-logs/
+zookeeper/
+
+# Pytest cache
+.pytest_cache/
+
+# Generated docs
+/build/
+doc/_build/
+
